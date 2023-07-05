@@ -15,15 +15,6 @@ project/project/
 project/target/
 target/
 
-# eclipse
-build/
-.classpath
-.project
-.settings
-.worksheet
-bin/
-.cache
-
 # intellij idea
 *.log
 *.iml
