@@ -39,3 +39,7 @@ System performance indicators
 
 ### Container Diagram
 ![container](docs/sky-economy-system_container.drawio.png)
+
+### Component Diagram
+![component](docs/sky-economy-component.drawio.png)
+
